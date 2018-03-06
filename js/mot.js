@@ -94,7 +94,7 @@ function leeterLettre(lettre) {
 
 // -0- //
 
-var motSaisi = prompt("Entrez un mot");
+var motSaisi = prompt("Entrez un mot et observez le résultat dans la console");
 
 console.log("Il y a " + nbVoyelles(motSaisi) + " voyelles et " + nbConsonnes(motSaisi) + " consonnes dans le mot " + motSaisi + ".");
 
